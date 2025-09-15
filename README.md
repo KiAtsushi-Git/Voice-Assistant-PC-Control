@@ -65,7 +65,7 @@ python audio.py
 
 | **Name** | Faraday |
 |-------------------|---------|
-| **Old**          | 15      |
+| **Old**          | 16      |
 | **Country** | Russian |
 | **Nickname** | KiAtsushi |
 | **Email** | [kiatsushi@ki.ru.net](mailto:kiatsushi@ki.ru.net) |
